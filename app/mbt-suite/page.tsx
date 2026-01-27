@@ -17,7 +17,7 @@ const projectContent = {
     processTitle: "Entwicklungsprozess",
     processDate: "August 2022 - April 2024",
     methodTitle: "Vorgehensweise",
-    methodText: "Die Herausforderung bestand darin, komplexe Datenstrukturen übersichtlich zu gestalten.",
+    methodText: "Wie bereits in der Projektbeschreibung erwähnt, wurde die Grundidee des Designs von einem anderen Praktikanten entwickelt und mir nach Abschluss seiner Praktikumszeit übergeben. Meine Aufgabe bestand darin, das Design weiterzuentwickeln. Obwohl ich keinen Anspruch auf das Urheberrecht dieser Komposition und Farbgestaltung des Projekts erheben kann, kann ich im Rahmen meiner Arbeit die folgenden entwickelten Funktionen und Features hervorheben:",
     methodList: [
       "Analyse bestehender Workflows",
       "Erstellung von High-Fidelity Mockups",
