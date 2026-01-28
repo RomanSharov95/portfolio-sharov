@@ -14,3 +14,12 @@
 [01:01:29.149] Server  WARN    ⚠ Fast Refresh had to perform a full reload when ./Desktop/MyWebInGit/portfolio-sharov/app/page.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
 [01:01:29.222] Server  LOG     ✓ Compiled in 28ms
 [01:01:29.340] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:12:32.869] Server  LOG     ✓ Compiled in 11ms
+[01:12:42.030] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:14:02.999] Server  LOG     ✓ Compiled in 27ms
+[01:15:07.580] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:15:56.331] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:20:47.114] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:29:43.820] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:33:34.606] Server  LOG     ✓ Compiled in 28ms
+[01:33:40.281] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
