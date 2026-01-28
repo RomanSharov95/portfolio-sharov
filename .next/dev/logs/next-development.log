@@ -1,0 +1,6 @@
+[00:00:02.448] Server  LOG     ✓ Ready in 2.3s
+[00:00:17.764] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:20.726] Browser ERROR   uncaughtError: TypeError: Cannot read properties of undefined (reading 'map')
+[00:13:25.072] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:13:25.139] Server  LOG     ✓ Compiled in 38ms
+[00:13:25.245] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
