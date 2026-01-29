@@ -1,18 +1,15 @@
-[00:00:00.719] Server  LOG     ✓ Ready in 537ms
-[00:00:07.521] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:02:15.080] Server  LOG     ✓ Compiled in 202ms
-[00:06:38.267] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:08:12.288] Server  LOG     ✓ Compiled in 20ms
-[00:08:16.982] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:08:32.049] Server  LOG     ✓ Compiled in 11ms
-[00:08:40.317] Server  LOG     ✓ Compiled in 11ms
-[00:11:47.039] Server  LOG     ✓ Compiled in 20ms
-[00:11:49.882] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[06:13:17.161] Server  LOG     ✓ Compiled in 44ms
-[06:14:29.963] Server  LOG     ✓ Compiled in 11ms
-[06:14:33.950] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[06:14:51.849] Server  LOG     ✓ Compiled in 11ms
-[06:16:05.977] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[06:17:12.282] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[06:17:42.408] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[06:18:36.234] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:00.896] Server  LOG     ✓ Ready in 690ms
+[00:00:08.089] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:11:16.380] Server  LOG     ✓ Compiled in 25ms
+[00:11:17.308] Browser ERROR   uncaughtError: TypeError: Cannot read properties of undefined (reading 'map')
+[00:11:31.674] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:11:31.715] Server  LOG     ✓ Compiled in 14ms
+[00:11:31.810] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:11:34.934] Server  LOG     ✓ Compiled in 11ms
+[00:11:34.997] Browser ERROR   uncaughtError: TypeError: Cannot read properties of undefined (reading 'map')
+[00:18:27.428] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:18:27.496] Server  LOG     ✓ Compiled in 11ms
+[00:18:27.616] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:20:28.472] Server  LOG     ✓ Compiled in 21ms
+[00:27:38.025] Server  LOG     ✓ Compiled in 11ms
+[00:27:43.515] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
