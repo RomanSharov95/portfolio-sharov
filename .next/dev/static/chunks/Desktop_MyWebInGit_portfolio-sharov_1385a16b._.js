@@ -176,7 +176,7 @@ const content = {
                     "Designing and developing UI/UX solutions based on identified user needs",
                     "Designing and implementing intuitive user interfaces (e.g., for tablet applications)",
                     "Developing interactive prototypes to visualize and validate design concepts",
-                    "Close collaboration with development teams and Product Owners",
+                    "Close collaboration with development teams and Product Owner",
                     "Active participation in team meetings for planning and managing design projects",
                     "Supporting the integration and testing phase in close cooperation with engineering",
                     "Assisting with manual testing in the experimental department",
@@ -324,7 +324,7 @@ function Home() {
                 className: "max-w-6xl mx-auto px-6 py-12",
                 children: [
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$MyWebInGit$2f$portfolio$2d$sharov$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
-                        className: "flex flex-col md:flex-row gap-12 mb-32 items-start",
+                        className: "flex flex-col md:flex-row gap-12 mb-12 items-start",
                         children: [
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$MyWebInGit$2f$portfolio$2d$sharov$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                 className: "w-full md:w-1/4",
@@ -337,12 +337,12 @@ function Home() {
                                             className: "w-full h-full object-cover"
                                         }, void 0, false, {
                                             fileName: "[project]/Desktop/MyWebInGit/portfolio-sharov/app/page.tsx",
-                                            lineNumber: 166,
+                                            lineNumber: 167,
                                             columnNumber: 15
                                         }, this)
                                     }, void 0, false, {
                                         fileName: "[project]/Desktop/MyWebInGit/portfolio-sharov/app/page.tsx",
-                                        lineNumber: 165,
+                                        lineNumber: 166,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$MyWebInGit$2f$portfolio$2d$sharov$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
@@ -350,7 +350,7 @@ function Home() {
                                         children: t.name
                                     }, void 0, false, {
                                         fileName: "[project]/Desktop/MyWebInGit/portfolio-sharov/app/page.tsx",
-                                        lineNumber: 168,
+                                        lineNumber: 169,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$MyWebInGit$2f$portfolio$2d$sharov$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -358,13 +358,13 @@ function Home() {
                                         children: t.role
                                     }, void 0, false, {
                                         fileName: "[project]/Desktop/MyWebInGit/portfolio-sharov/app/page.tsx",
-                                        lineNumber: 169,
+                                        lineNumber: 170,
                                         columnNumber: 13
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/Desktop/MyWebInGit/portfolio-sharov/app/page.tsx",
-                                lineNumber: 164,
+                                lineNumber: 165,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$MyWebInGit$2f$portfolio$2d$sharov$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -375,7 +375,7 @@ function Home() {
                                         children: t.greeting
                                     }, void 0, false, {
                                         fileName: "[project]/Desktop/MyWebInGit/portfolio-sharov/app/page.tsx",
-                                        lineNumber: 172,
+                                        lineNumber: 173,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$MyWebInGit$2f$portfolio$2d$sharov$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -383,23 +383,23 @@ function Home() {
                                         children: t.subGreeting
                                     }, void 0, false, {
                                         fileName: "[project]/Desktop/MyWebInGit/portfolio-sharov/app/page.tsx",
-                                        lineNumber: 173,
+                                        lineNumber: 174,
                                         columnNumber: 13
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/Desktop/MyWebInGit/portfolio-sharov/app/page.tsx",
-                                lineNumber: 171,
+                                lineNumber: 172,
                                 columnNumber: 11
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/Desktop/MyWebInGit/portfolio-sharov/app/page.tsx",
-                        lineNumber: 163,
+                        lineNumber: 164,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$MyWebInGit$2f$portfolio$2d$sharov$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
-                        className: "mb-32 grid md:grid-cols-2 gap-12 items-center border-t border-gray-100 pt-16",
+                        className: "mb-24 grid md:grid-cols-2 gap-12 items-center border-t border-gray-100 pt-8",
                         children: [
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$MyWebInGit$2f$portfolio$2d$sharov$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                 children: [
@@ -408,7 +408,7 @@ function Home() {
                                         children: t.aboutTitle
                                     }, void 0, false, {
                                         fileName: "[project]/Desktop/MyWebInGit/portfolio-sharov/app/page.tsx",
-                                        lineNumber: 179,
+                                        lineNumber: 181,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$MyWebInGit$2f$portfolio$2d$sharov$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
@@ -421,7 +421,7 @@ function Home() {
                                                         children: "•"
                                                     }, void 0, false, {
                                                         fileName: "[project]/Desktop/MyWebInGit/portfolio-sharov/app/page.tsx",
-                                                        lineNumber: 182,
+                                                        lineNumber: 184,
                                                         columnNumber: 64
                                                     }, this),
                                                     " ",
@@ -429,24 +429,24 @@ function Home() {
                                                         children: line
                                                     }, void 0, false, {
                                                         fileName: "[project]/Desktop/MyWebInGit/portfolio-sharov/app/page.tsx",
-                                                        lineNumber: 182,
+                                                        lineNumber: 184,
                                                         columnNumber: 112
                                                     }, this)
                                                 ]
                                             }, i, true, {
                                                 fileName: "[project]/Desktop/MyWebInGit/portfolio-sharov/app/page.tsx",
-                                                lineNumber: 182,
+                                                lineNumber: 184,
                                                 columnNumber: 17
                                             }, this))
                                     }, void 0, false, {
                                         fileName: "[project]/Desktop/MyWebInGit/portfolio-sharov/app/page.tsx",
-                                        lineNumber: 180,
+                                        lineNumber: 182,
                                         columnNumber: 13
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/Desktop/MyWebInGit/portfolio-sharov/app/page.tsx",
-                                lineNumber: 178,
+                                lineNumber: 180,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$MyWebInGit$2f$portfolio$2d$sharov$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -457,18 +457,18 @@ function Home() {
                                     className: "w-full h-auto"
                                 }, void 0, false, {
                                     fileName: "[project]/Desktop/MyWebInGit/portfolio-sharov/app/page.tsx",
-                                    lineNumber: 186,
+                                    lineNumber: 188,
                                     columnNumber: 89
                                 }, this)
                             }, void 0, false, {
                                 fileName: "[project]/Desktop/MyWebInGit/portfolio-sharov/app/page.tsx",
-                                lineNumber: 186,
+                                lineNumber: 188,
                                 columnNumber: 11
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/Desktop/MyWebInGit/portfolio-sharov/app/page.tsx",
-                        lineNumber: 177,
+                        lineNumber: 179,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$MyWebInGit$2f$portfolio$2d$sharov$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
@@ -479,7 +479,7 @@ function Home() {
                                 children: t.experienceTitle
                             }, void 0, false, {
                                 fileName: "[project]/Desktop/MyWebInGit/portfolio-sharov/app/page.tsx",
-                                lineNumber: 190,
+                                lineNumber: 193,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$MyWebInGit$2f$portfolio$2d$sharov$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -495,7 +495,7 @@ function Home() {
                                                         children: exp.date
                                                     }, void 0, false, {
                                                         fileName: "[project]/Desktop/MyWebInGit/portfolio-sharov/app/page.tsx",
-                                                        lineNumber: 195,
+                                                        lineNumber: 198,
                                                         columnNumber: 19
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$MyWebInGit$2f$portfolio$2d$sharov$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -503,13 +503,13 @@ function Home() {
                                                         children: exp.location
                                                     }, void 0, false, {
                                                         fileName: "[project]/Desktop/MyWebInGit/portfolio-sharov/app/page.tsx",
-                                                        lineNumber: 196,
+                                                        lineNumber: 199,
                                                         columnNumber: 19
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/Desktop/MyWebInGit/portfolio-sharov/app/page.tsx",
-                                                lineNumber: 194,
+                                                lineNumber: 197,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$MyWebInGit$2f$portfolio$2d$sharov$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -520,7 +520,7 @@ function Home() {
                                                         children: exp.company
                                                     }, void 0, false, {
                                                         fileName: "[project]/Desktop/MyWebInGit/portfolio-sharov/app/page.tsx",
-                                                        lineNumber: 199,
+                                                        lineNumber: 202,
                                                         columnNumber: 19
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$MyWebInGit$2f$portfolio$2d$sharov$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
@@ -533,42 +533,42 @@ function Home() {
                                                                         children: "■"
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/Desktop/MyWebInGit/portfolio-sharov/app/page.tsx",
-                                                                        lineNumber: 202,
+                                                                        lineNumber: 205,
                                                                         columnNumber: 115
                                                                     }, this),
                                                                     task
                                                                 ]
                                                             }, index, true, {
                                                                 fileName: "[project]/Desktop/MyWebInGit/portfolio-sharov/app/page.tsx",
-                                                                lineNumber: 202,
+                                                                lineNumber: 205,
                                                                 columnNumber: 23
                                                             }, this))
                                                     }, void 0, false, {
                                                         fileName: "[project]/Desktop/MyWebInGit/portfolio-sharov/app/page.tsx",
-                                                        lineNumber: 200,
+                                                        lineNumber: 203,
                                                         columnNumber: 19
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/Desktop/MyWebInGit/portfolio-sharov/app/page.tsx",
-                                                lineNumber: 198,
+                                                lineNumber: 201,
                                                 columnNumber: 17
                                             }, this)
                                         ]
                                     }, i, true, {
                                         fileName: "[project]/Desktop/MyWebInGit/portfolio-sharov/app/page.tsx",
-                                        lineNumber: 193,
+                                        lineNumber: 196,
                                         columnNumber: 15
                                     }, this))
                             }, void 0, false, {
                                 fileName: "[project]/Desktop/MyWebInGit/portfolio-sharov/app/page.tsx",
-                                lineNumber: 191,
+                                lineNumber: 194,
                                 columnNumber: 11
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/Desktop/MyWebInGit/portfolio-sharov/app/page.tsx",
-                        lineNumber: 189,
+                        lineNumber: 192,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$MyWebInGit$2f$portfolio$2d$sharov$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
@@ -579,7 +579,7 @@ function Home() {
                                 children: t.projectsTitle
                             }, void 0, false, {
                                 fileName: "[project]/Desktop/MyWebInGit/portfolio-sharov/app/page.tsx",
-                                lineNumber: 212,
+                                lineNumber: 216,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$MyWebInGit$2f$portfolio$2d$sharov$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -596,12 +596,12 @@ function Home() {
                                                     className: "w-full h-full object-cover group-hover:scale-105 transition-transform duration-700"
                                                 }, void 0, false, {
                                                     fileName: "[project]/Desktop/MyWebInGit/portfolio-sharov/app/page.tsx",
-                                                    lineNumber: 217,
+                                                    lineNumber: 221,
                                                     columnNumber: 19
                                                 }, this)
                                             }, void 0, false, {
                                                 fileName: "[project]/Desktop/MyWebInGit/portfolio-sharov/app/page.tsx",
-                                                lineNumber: 216,
+                                                lineNumber: 220,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$MyWebInGit$2f$portfolio$2d$sharov$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h4", {
@@ -609,7 +609,7 @@ function Home() {
                                                 children: project.title
                                             }, void 0, false, {
                                                 fileName: "[project]/Desktop/MyWebInGit/portfolio-sharov/app/page.tsx",
-                                                lineNumber: 219,
+                                                lineNumber: 223,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$MyWebInGit$2f$portfolio$2d$sharov$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -617,24 +617,24 @@ function Home() {
                                                 children: project.cat
                                             }, void 0, false, {
                                                 fileName: "[project]/Desktop/MyWebInGit/portfolio-sharov/app/page.tsx",
-                                                lineNumber: 220,
+                                                lineNumber: 224,
                                                 columnNumber: 17
                                             }, this)
                                         ]
                                     }, i, true, {
                                         fileName: "[project]/Desktop/MyWebInGit/portfolio-sharov/app/page.tsx",
-                                        lineNumber: 215,
+                                        lineNumber: 219,
                                         columnNumber: 15
                                     }, this))
                             }, void 0, false, {
                                 fileName: "[project]/Desktop/MyWebInGit/portfolio-sharov/app/page.tsx",
-                                lineNumber: 213,
+                                lineNumber: 217,
                                 columnNumber: 11
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/Desktop/MyWebInGit/portfolio-sharov/app/page.tsx",
-                        lineNumber: 211,
+                        lineNumber: 215,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$MyWebInGit$2f$portfolio$2d$sharov$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
@@ -648,7 +648,7 @@ function Home() {
                                         children: t.pricingTitle
                                     }, void 0, false, {
                                         fileName: "[project]/Desktop/MyWebInGit/portfolio-sharov/app/page.tsx",
-                                        lineNumber: 228,
+                                        lineNumber: 233,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$MyWebInGit$2f$portfolio$2d$sharov$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -656,13 +656,13 @@ function Home() {
                                         children: t.pricingSub
                                     }, void 0, false, {
                                         fileName: "[project]/Desktop/MyWebInGit/portfolio-sharov/app/page.tsx",
-                                        lineNumber: 229,
+                                        lineNumber: 234,
                                         columnNumber: 13
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/Desktop/MyWebInGit/portfolio-sharov/app/page.tsx",
-                                lineNumber: 227,
+                                lineNumber: 232,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$MyWebInGit$2f$portfolio$2d$sharov$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -679,7 +679,7 @@ function Home() {
                                                         children: "№"
                                                     }, void 0, false, {
                                                         fileName: "[project]/Desktop/MyWebInGit/portfolio-sharov/app/page.tsx",
-                                                        lineNumber: 235,
+                                                        lineNumber: 240,
                                                         columnNumber: 19
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$MyWebInGit$2f$portfolio$2d$sharov$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("th", {
@@ -687,7 +687,7 @@ function Home() {
                                                         children: "Service"
                                                     }, void 0, false, {
                                                         fileName: "[project]/Desktop/MyWebInGit/portfolio-sharov/app/page.tsx",
-                                                        lineNumber: 236,
+                                                        lineNumber: 241,
                                                         columnNumber: 19
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$MyWebInGit$2f$portfolio$2d$sharov$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("th", {
@@ -695,7 +695,7 @@ function Home() {
                                                         children: "Price"
                                                     }, void 0, false, {
                                                         fileName: "[project]/Desktop/MyWebInGit/portfolio-sharov/app/page.tsx",
-                                                        lineNumber: 237,
+                                                        lineNumber: 242,
                                                         columnNumber: 19
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$MyWebInGit$2f$portfolio$2d$sharov$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("th", {
@@ -703,18 +703,18 @@ function Home() {
                                                         children: "Details"
                                                     }, void 0, false, {
                                                         fileName: "[project]/Desktop/MyWebInGit/portfolio-sharov/app/page.tsx",
-                                                        lineNumber: 238,
+                                                        lineNumber: 243,
                                                         columnNumber: 19
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/Desktop/MyWebInGit/portfolio-sharov/app/page.tsx",
-                                                lineNumber: 234,
+                                                lineNumber: 239,
                                                 columnNumber: 17
                                             }, this)
                                         }, void 0, false, {
                                             fileName: "[project]/Desktop/MyWebInGit/portfolio-sharov/app/page.tsx",
-                                            lineNumber: 233,
+                                            lineNumber: 238,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$MyWebInGit$2f$portfolio$2d$sharov$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("tbody", {
@@ -726,7 +726,7 @@ function Home() {
                                                             children: item.id
                                                         }, void 0, false, {
                                                             fileName: "[project]/Desktop/MyWebInGit/portfolio-sharov/app/page.tsx",
-                                                            lineNumber: 244,
+                                                            lineNumber: 249,
                                                             columnNumber: 21
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$MyWebInGit$2f$portfolio$2d$sharov$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("td", {
@@ -734,7 +734,7 @@ function Home() {
                                                             children: item.service
                                                         }, void 0, false, {
                                                             fileName: "[project]/Desktop/MyWebInGit/portfolio-sharov/app/page.tsx",
-                                                            lineNumber: 245,
+                                                            lineNumber: 250,
                                                             columnNumber: 21
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$MyWebInGit$2f$portfolio$2d$sharov$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("td", {
@@ -742,7 +742,7 @@ function Home() {
                                                             children: item.price
                                                         }, void 0, false, {
                                                             fileName: "[project]/Desktop/MyWebInGit/portfolio-sharov/app/page.tsx",
-                                                            lineNumber: 246,
+                                                            lineNumber: 251,
                                                             columnNumber: 21
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$MyWebInGit$2f$portfolio$2d$sharov$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("td", {
@@ -750,29 +750,29 @@ function Home() {
                                                             children: item.comment
                                                         }, void 0, false, {
                                                             fileName: "[project]/Desktop/MyWebInGit/portfolio-sharov/app/page.tsx",
-                                                            lineNumber: 247,
+                                                            lineNumber: 252,
                                                             columnNumber: 21
                                                         }, this)
                                                     ]
                                                 }, item.id, true, {
                                                     fileName: "[project]/Desktop/MyWebInGit/portfolio-sharov/app/page.tsx",
-                                                    lineNumber: 243,
+                                                    lineNumber: 248,
                                                     columnNumber: 19
                                                 }, this))
                                         }, void 0, false, {
                                             fileName: "[project]/Desktop/MyWebInGit/portfolio-sharov/app/page.tsx",
-                                            lineNumber: 241,
+                                            lineNumber: 246,
                                             columnNumber: 15
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/Desktop/MyWebInGit/portfolio-sharov/app/page.tsx",
-                                    lineNumber: 232,
+                                    lineNumber: 237,
                                     columnNumber: 13
                                 }, this)
                             }, void 0, false, {
                                 fileName: "[project]/Desktop/MyWebInGit/portfolio-sharov/app/page.tsx",
-                                lineNumber: 231,
+                                lineNumber: 236,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$MyWebInGit$2f$portfolio$2d$sharov$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -783,18 +783,18 @@ function Home() {
                                     children: t.ctaButton
                                 }, void 0, false, {
                                     fileName: "[project]/Desktop/MyWebInGit/portfolio-sharov/app/page.tsx",
-                                    lineNumber: 254,
+                                    lineNumber: 259,
                                     columnNumber: 13
                                 }, this)
                             }, void 0, false, {
                                 fileName: "[project]/Desktop/MyWebInGit/portfolio-sharov/app/page.tsx",
-                                lineNumber: 253,
+                                lineNumber: 258,
                                 columnNumber: 11
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/Desktop/MyWebInGit/portfolio-sharov/app/page.tsx",
-                        lineNumber: 226,
+                        lineNumber: 231,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$MyWebInGit$2f$portfolio$2d$sharov$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("footer", {
@@ -810,7 +810,7 @@ function Home() {
                                                 children: t.contactTitle
                                             }, void 0, false, {
                                                 fileName: "[project]/Desktop/MyWebInGit/portfolio-sharov/app/page.tsx",
-                                                lineNumber: 262,
+                                                lineNumber: 268,
                                                 columnNumber: 18
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$MyWebInGit$2f$portfolio$2d$sharov$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -818,13 +818,13 @@ function Home() {
                                                 children: "Let's build something great together."
                                             }, void 0, false, {
                                                 fileName: "[project]/Desktop/MyWebInGit/portfolio-sharov/app/page.tsx",
-                                                lineNumber: 262,
+                                                lineNumber: 268,
                                                 columnNumber: 112
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/Desktop/MyWebInGit/portfolio-sharov/app/page.tsx",
-                                        lineNumber: 262,
+                                        lineNumber: 268,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$MyWebInGit$2f$portfolio$2d$sharov$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -841,13 +841,13 @@ function Home() {
                                                             children: email
                                                         }, void 0, false, {
                                                             fileName: "[project]/Desktop/MyWebInGit/portfolio-sharov/app/page.tsx",
-                                                            lineNumber: 265,
+                                                            lineNumber: 271,
                                                             columnNumber: 53
                                                         }, this)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/Desktop/MyWebInGit/portfolio-sharov/app/page.tsx",
-                                                    lineNumber: 265,
+                                                    lineNumber: 271,
                                                     columnNumber: 17
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$MyWebInGit$2f$portfolio$2d$sharov$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -860,30 +860,30 @@ function Home() {
                                                             children: "roman-sharov"
                                                         }, void 0, false, {
                                                             fileName: "[project]/Desktop/MyWebInGit/portfolio-sharov/app/page.tsx",
-                                                            lineNumber: 266,
+                                                            lineNumber: 272,
                                                             columnNumber: 56
                                                         }, this)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/Desktop/MyWebInGit/portfolio-sharov/app/page.tsx",
-                                                    lineNumber: 266,
+                                                    lineNumber: 272,
                                                     columnNumber: 17
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/Desktop/MyWebInGit/portfolio-sharov/app/page.tsx",
-                                            lineNumber: 264,
+                                            lineNumber: 270,
                                             columnNumber: 15
                                         }, this)
                                     }, void 0, false, {
                                         fileName: "[project]/Desktop/MyWebInGit/portfolio-sharov/app/page.tsx",
-                                        lineNumber: 263,
+                                        lineNumber: 269,
                                         columnNumber: 13
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/Desktop/MyWebInGit/portfolio-sharov/app/page.tsx",
-                                lineNumber: 261,
+                                lineNumber: 267,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$MyWebInGit$2f$portfolio$2d$sharov$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -891,13 +891,13 @@ function Home() {
                                 children: "© 2026 Roman Sharov"
                             }, void 0, false, {
                                 fileName: "[project]/Desktop/MyWebInGit/portfolio-sharov/app/page.tsx",
-                                lineNumber: 270,
+                                lineNumber: 276,
                                 columnNumber: 11
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/Desktop/MyWebInGit/portfolio-sharov/app/page.tsx",
-                        lineNumber: 260,
+                        lineNumber: 266,
                         columnNumber: 9
                     }, this)
                 ]

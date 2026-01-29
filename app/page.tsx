@@ -99,7 +99,7 @@ const content = {
           "Designing and developing UI/UX solutions based on identified user needs",
           "Designing and implementing intuitive user interfaces (e.g., for tablet applications)",
           "Developing interactive prototypes to visualize and validate design concepts",
-          "Close collaboration with development teams and Product Owners",
+          "Close collaboration with development teams and Product Owner",
           "Active participation in team meetings for planning and managing design projects",
           "Supporting the integration and testing phase in close cooperation with engineering",
           "Assisting with manual testing in the experimental department",
@@ -160,7 +160,8 @@ export default function Home() {
       </nav>
 
       <main className="max-w-6xl mx-auto px-6 py-12">
-        <section className="flex flex-col md:flex-row gap-12 mb-32 items-start">
+        {/* HERO SECTION */}
+        <section className="flex flex-col md:flex-row gap-12 mb-12 items-start">
           <div className="w-full md:w-1/4">
             <div className="aspect-[3/4] rounded-lg overflow-hidden bg-gray-100 shadow-sm border border-gray-100">
               <img src="/roman.jpg" alt={t.name} className="w-full h-full object-cover" />
@@ -174,7 +175,8 @@ export default function Home() {
           </div>
         </section>
 
-        <section className="mb-32 grid md:grid-cols-2 gap-12 items-center border-t border-gray-100 pt-16">
+        {/* ÜBER MICH - Отступы уменьшены здесь */}
+        <section className="mb-24 grid md:grid-cols-2 gap-12 items-center border-t border-gray-100 pt-8">
           <div>
             <h2 className="text-3xl font-bold mb-8 tracking-tight uppercase text-sm">{t.aboutTitle}</h2>
             <ul className="space-y-4 text-lg text-slate-700">
@@ -186,6 +188,7 @@ export default function Home() {
           <div className="rounded-2xl overflow-hidden border border-gray-100 shadow-sm"><img src="/diplom.jpg" alt="Diploma" className="w-full h-auto" /></div>
         </section>
 
+        {/* EXPERIENCE */}
         <section className="mb-32">
           <h2 className="text-3xl font-bold mb-12 tracking-tight uppercase text-sm">{t.experienceTitle}</h2>
           <div className="space-y-16">
@@ -208,6 +211,7 @@ export default function Home() {
           </div>
         </section>
 
+        {/* PROJECTS */}
         <section className="mb-40">
           <h2 className="text-3xl font-bold mb-10 tracking-tight uppercase text-sm">{t.projectsTitle}</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-x-12 gap-y-16">
@@ -223,6 +227,7 @@ export default function Home() {
           </div>
         </section>
 
+        {/* PRICING */}
         <section className="mb-40 border-t-2 border-black pt-20">
           <div className="mb-16">
             <h2 className="text-3xl md:text-5xl font-bold tracking-tight mb-4 uppercase text-sm">{t.pricingTitle}</h2>
@@ -257,6 +262,7 @@ export default function Home() {
           </div>
         </section>
 
+        {/* FOOTER */}
         <footer className="pt-20 border-t border-gray-100 pb-10">
           <div className="grid md:grid-cols-2 gap-16 mb-20">
             <div><h2 className="text-3xl font-bold mb-6 tracking-tight uppercase text-sm">{t.contactTitle}</h2><p className="text-gray-500 font-light italic leading-relaxed">Let's build something great together.</p></div>
