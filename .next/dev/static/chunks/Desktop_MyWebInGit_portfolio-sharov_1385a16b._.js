@@ -332,7 +332,7 @@ function Home() {
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$MyWebInGit$2f$portfolio$2d$sharov$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                         className: "aspect-[3/4] rounded-lg overflow-hidden bg-gray-100 shadow-sm border border-gray-100",
                                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$MyWebInGit$2f$portfolio$2d$sharov$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
-                                            src: "/roman.jpg",
+                                            src: "/roman.png",
                                             alt: t.name,
                                             className: "w-full h-full object-cover"
                                         }, void 0, false, {
@@ -798,100 +798,138 @@ function Home() {
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$MyWebInGit$2f$portfolio$2d$sharov$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("footer", {
-                        className: "pt-20 border-t border-gray-100 pb-10",
+                        className: "pt-20 pb-10 border-t border-gray-100 text-center",
                         children: [
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$MyWebInGit$2f$portfolio$2d$sharov$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
+                                className: "text-2xl font-bold mb-8 uppercase tracking-widest",
+                                children: lang === 'de' ? 'Kontakt mit mir' : 'Get in touch'
+                            }, void 0, false, {
+                                fileName: "[project]/Desktop/MyWebInGit/portfolio-sharov/app/page.tsx",
+                                lineNumber: 267,
+                                columnNumber: 11
+                            }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$MyWebInGit$2f$portfolio$2d$sharov$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                className: "grid md:grid-cols-2 gap-16 mb-20",
+                                className: "flex justify-center gap-6 mb-16",
                                 children: [
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$MyWebInGit$2f$portfolio$2d$sharov$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                        children: [
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$MyWebInGit$2f$portfolio$2d$sharov$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
-                                                className: "text-3xl font-bold mb-6 tracking-tight uppercase text-sm",
-                                                children: t.contactTitle
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$MyWebInGit$2f$portfolio$2d$sharov$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
+                                        href: "tel:+491786064918",
+                                        className: "p-4 bg-black rounded-2xl hover:scale-110 transition-transform",
+                                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$MyWebInGit$2f$portfolio$2d$sharov$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("svg", {
+                                            className: "w-8 h-8 text-white",
+                                            fill: "none",
+                                            stroke: "currentColor",
+                                            viewBox: "0 0 24 24",
+                                            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$MyWebInGit$2f$portfolio$2d$sharov$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
+                                                strokeLinecap: "round",
+                                                strokeLinejoin: "round",
+                                                strokeWidth: "2",
+                                                d: "M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z"
                                             }, void 0, false, {
                                                 fileName: "[project]/Desktop/MyWebInGit/portfolio-sharov/app/page.tsx",
-                                                lineNumber: 268,
-                                                columnNumber: 18
-                                            }, this),
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$MyWebInGit$2f$portfolio$2d$sharov$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                className: "text-gray-500 font-light italic leading-relaxed",
-                                                children: "Let's build something great together."
-                                            }, void 0, false, {
-                                                fileName: "[project]/Desktop/MyWebInGit/portfolio-sharov/app/page.tsx",
-                                                lineNumber: 268,
-                                                columnNumber: 112
+                                                lineNumber: 275,
+                                                columnNumber: 17
                                             }, this)
-                                        ]
-                                    }, void 0, true, {
-                                        fileName: "[project]/Desktop/MyWebInGit/portfolio-sharov/app/page.tsx",
-                                        lineNumber: 268,
-                                        columnNumber: 13
-                                    }, this),
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$MyWebInGit$2f$portfolio$2d$sharov$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                        className: "bg-slate-50 p-10 rounded-3xl border border-slate-100",
-                                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$MyWebInGit$2f$portfolio$2d$sharov$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                            className: "space-y-4",
-                                            children: [
-                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$MyWebInGit$2f$portfolio$2d$sharov$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                    className: "text-gray-600",
-                                                    children: [
-                                                        "Email: ",
-                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$MyWebInGit$2f$portfolio$2d$sharov$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                            className: "text-black font-semibold ml-2",
-                                                            children: email
-                                                        }, void 0, false, {
-                                                            fileName: "[project]/Desktop/MyWebInGit/portfolio-sharov/app/page.tsx",
-                                                            lineNumber: 271,
-                                                            columnNumber: 53
-                                                        }, this)
-                                                    ]
-                                                }, void 0, true, {
-                                                    fileName: "[project]/Desktop/MyWebInGit/portfolio-sharov/app/page.tsx",
-                                                    lineNumber: 271,
-                                                    columnNumber: 17
-                                                }, this),
-                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$MyWebInGit$2f$portfolio$2d$sharov$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                    className: "text-gray-600",
-                                                    children: [
-                                                        "LinkedIn: ",
-                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$MyWebInGit$2f$portfolio$2d$sharov$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
-                                                            href: "https://linkedin.com/in/roman-sharov",
-                                                            className: "text-black font-semibold underline underline-offset-4 ml-2",
-                                                            children: "roman-sharov"
-                                                        }, void 0, false, {
-                                                            fileName: "[project]/Desktop/MyWebInGit/portfolio-sharov/app/page.tsx",
-                                                            lineNumber: 272,
-                                                            columnNumber: 56
-                                                        }, this)
-                                                    ]
-                                                }, void 0, true, {
-                                                    fileName: "[project]/Desktop/MyWebInGit/portfolio-sharov/app/page.tsx",
-                                                    lineNumber: 272,
-                                                    columnNumber: 17
-                                                }, this)
-                                            ]
-                                        }, void 0, true, {
+                                        }, void 0, false, {
                                             fileName: "[project]/Desktop/MyWebInGit/portfolio-sharov/app/page.tsx",
-                                            lineNumber: 270,
+                                            lineNumber: 274,
                                             columnNumber: 15
                                         }, this)
                                     }, void 0, false, {
                                         fileName: "[project]/Desktop/MyWebInGit/portfolio-sharov/app/page.tsx",
-                                        lineNumber: 269,
+                                        lineNumber: 273,
+                                        columnNumber: 13
+                                    }, this),
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$MyWebInGit$2f$portfolio$2d$sharov$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
+                                        href: `mailto:${email}`,
+                                        className: "p-4 bg-black rounded-2xl hover:scale-110 transition-transform",
+                                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$MyWebInGit$2f$portfolio$2d$sharov$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("svg", {
+                                            className: "w-8 h-8 text-white",
+                                            fill: "none",
+                                            stroke: "currentColor",
+                                            viewBox: "0 0 24 24",
+                                            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$MyWebInGit$2f$portfolio$2d$sharov$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
+                                                strokeLinecap: "round",
+                                                strokeLinejoin: "round",
+                                                strokeWidth: "2",
+                                                d: "M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"
+                                            }, void 0, false, {
+                                                fileName: "[project]/Desktop/MyWebInGit/portfolio-sharov/app/page.tsx",
+                                                lineNumber: 281,
+                                                columnNumber: 17
+                                            }, this)
+                                        }, void 0, false, {
+                                            fileName: "[project]/Desktop/MyWebInGit/portfolio-sharov/app/page.tsx",
+                                            lineNumber: 280,
+                                            columnNumber: 15
+                                        }, this)
+                                    }, void 0, false, {
+                                        fileName: "[project]/Desktop/MyWebInGit/portfolio-sharov/app/page.tsx",
+                                        lineNumber: 279,
+                                        columnNumber: 13
+                                    }, this),
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$MyWebInGit$2f$portfolio$2d$sharov$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
+                                        href: "https://linkedin.com/in/roman-sharov",
+                                        target: "_blank",
+                                        className: "p-4 bg-black rounded-2xl hover:scale-110 transition-transform",
+                                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$MyWebInGit$2f$portfolio$2d$sharov$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("svg", {
+                                            className: "w-8 h-8 text-white",
+                                            fill: "currentColor",
+                                            viewBox: "0 0 24 24",
+                                            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$MyWebInGit$2f$portfolio$2d$sharov$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
+                                                d: "M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"
+                                            }, void 0, false, {
+                                                fileName: "[project]/Desktop/MyWebInGit/portfolio-sharov/app/page.tsx",
+                                                lineNumber: 287,
+                                                columnNumber: 17
+                                            }, this)
+                                        }, void 0, false, {
+                                            fileName: "[project]/Desktop/MyWebInGit/portfolio-sharov/app/page.tsx",
+                                            lineNumber: 286,
+                                            columnNumber: 15
+                                        }, this)
+                                    }, void 0, false, {
+                                        fileName: "[project]/Desktop/MyWebInGit/portfolio-sharov/app/page.tsx",
+                                        lineNumber: 285,
                                         columnNumber: 13
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/Desktop/MyWebInGit/portfolio-sharov/app/page.tsx",
-                                lineNumber: 267,
+                                lineNumber: 271,
                                 columnNumber: 11
                             }, this),
-                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$MyWebInGit$2f$portfolio$2d$sharov$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                className: "text-center text-gray-300 text-[10px] uppercase tracking-[0.3em] font-medium",
-                                children: "© 2026 Roman Sharov"
-                            }, void 0, false, {
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$MyWebInGit$2f$portfolio$2d$sharov$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                className: "flex justify-end gap-4 text-[10px] uppercase tracking-widest text-gray-400",
+                                children: [
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$MyWebInGit$2f$portfolio$2d$sharov$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$MyWebInGit$2f$portfolio$2d$sharov$2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
+                                        href: "/impressum",
+                                        className: "hover:text-black transition-colors",
+                                        children: "Impressum"
+                                    }, void 0, false, {
+                                        fileName: "[project]/Desktop/MyWebInGit/portfolio-sharov/app/page.tsx",
+                                        lineNumber: 293,
+                                        columnNumber: 13
+                                    }, this),
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$MyWebInGit$2f$portfolio$2d$sharov$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                        children: "|"
+                                    }, void 0, false, {
+                                        fileName: "[project]/Desktop/MyWebInGit/portfolio-sharov/app/page.tsx",
+                                        lineNumber: 294,
+                                        columnNumber: 13
+                                    }, this),
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$MyWebInGit$2f$portfolio$2d$sharov$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$MyWebInGit$2f$portfolio$2d$sharov$2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
+                                        href: "/datenschutz",
+                                        className: "hover:text-black transition-colors",
+                                        children: "Datenschutz"
+                                    }, void 0, false, {
+                                        fileName: "[project]/Desktop/MyWebInGit/portfolio-sharov/app/page.tsx",
+                                        lineNumber: 295,
+                                        columnNumber: 13
+                                    }, this)
+                                ]
+                            }, void 0, true, {
                                 fileName: "[project]/Desktop/MyWebInGit/portfolio-sharov/app/page.tsx",
-                                lineNumber: 276,
+                                lineNumber: 292,
                                 columnNumber: 11
                             }, this)
                         ]
