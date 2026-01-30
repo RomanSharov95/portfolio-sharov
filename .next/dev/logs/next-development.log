@@ -1,17 +1,52 @@
-[00:00:00.896] Server  LOG     ✓ Ready in 690ms
-[00:00:08.089] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:11:16.380] Server  LOG     ✓ Compiled in 25ms
-[00:11:17.308] Browser ERROR   uncaughtError: TypeError: Cannot read properties of undefined (reading 'map')
-[00:11:31.674] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
-[00:11:31.715] Server  LOG     ✓ Compiled in 14ms
-[00:11:31.810] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:11:34.934] Server  LOG     ✓ Compiled in 11ms
-[00:11:34.997] Browser ERROR   uncaughtError: TypeError: Cannot read properties of undefined (reading 'map')
-[00:18:27.428] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
-[00:18:27.496] Server  LOG     ✓ Compiled in 11ms
-[00:18:27.616] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:20:28.472] Server  LOG     ✓ Compiled in 21ms
-[00:27:38.025] Server  LOG     ✓ Compiled in 11ms
-[00:27:43.515] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[01:30:25.615] Server  LOG     ✓ Compiled in 18ms
-[01:30:32.815] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:00.822] Server  LOG     ✓ Ready in 638ms
+[00:00:25.762] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:17:50.673] Browser ERROR   ./Desktop/MyWebInGit/portfolio-sharov/app/layout.tsx:17:43
+Parsing ecmascript source code failed
+  15 | export const metadata: Metadata = {
+  16 |   title: "Roman Sharov-UI/UX Designer",
+> 17 |   description: "Portfolio of Roman Sharov"",
+     |                                           ^^
+  18 | };
+  19 |
+  20 | export default function RootLayout({
+
+Unterminated string constant
+[00:18:11.675] Browser ERROR   ./Desktop/MyWebInGit/portfolio-sharov/app/layout.tsx:17:43
+Parsing ecmascript source code failed
+  15 | export const metadata: Metadata = {
+  16 |   title: "Roman Sharov|UI/UX Designer",
+> 17 |   description: "Portfolio of Roman Sharov"",
+     |                                           ^^
+  18 | };
+  19 |
+  20 | export default function RootLayout({
+
+Unterminated string constant
+[00:18:16.673] Browser ERROR   ./Desktop/MyWebInGit/portfolio-sharov/app/layout.tsx:17:43
+Parsing ecmascript source code failed
+  15 | export const metadata: Metadata = {
+  16 |   title: "Roman Sharov|UI/UX Designer",
+> 17 |   description: "Portfolio of Roman Sharov"",
+     |                                           ^^
+  18 | };
+  19 |
+  20 | export default function RootLayout({
+
+Unterminated string constant
+[00:18:17.693] Browser ERROR   ./Desktop/MyWebInGit/portfolio-sharov/app/layout.tsx:17:43
+Parsing ecmascript source code failed
+  15 | export const metadata: Metadata = {
+  16 |   title: "Roman Sharov|UI/UX Designer",
+> 17 |   description: "Portfolio of Roman Sharov"",
+     |                                           ^^
+  18 | };
+  19 |
+  20 | export default function RootLayout({
+
+Unterminated string constant
+[00:22:42.263] Server  LOG     ✓ Compiled in 210ms
+[00:24:58.469] Server  LOG     ✓ Compiled in 14ms
+[00:25:02.505] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:25:04.622] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:25:14.469] Server  LOG     ✓ Compiled in 412ms
+[00:25:14.553] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
